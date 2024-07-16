@@ -1,0 +1,84 @@
+Dimanakah habitat ikan arwana;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Sungai/Air Tawar;
+|
+Dimanakah habitat buaya;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Sungai/Air Tawar;
+|
+Dimanakah habitat ikan giru/ikan badut;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Lautan;
+|
+Dimanakah habitat katak;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Daratan;
+|
+Dimanakah habitat kura-kura;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Sungai/Air Tawar;
+|
+Dimanakah habitat ikan marlin;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Lautan;
+|
+Dimanakah habitat ikan patin;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Sungai/Air Tawar;
+|
+Dimanakah habitat salamander;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Sungai/Air Tawar;
+|
+Dimanakah habitat ikan salmon;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Lautan;
+|
+Dimanakah habitat ular;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Daratan;
+|
+Dimanakah habitat ikan giurnal ;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Lautan;
+|
+Dimanakah habitat ikan gupi ;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Sungai/Air Tawar;
+|
+Dimanakah habitat ikan injel ;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Lautan;
+|
+Dimanakah habitat ikan moly ;
+Daratan;
+Lautan;
+Sungai/Air Tawar;
+Lautan;
+|
